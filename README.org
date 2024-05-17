@@ -1,0 +1,9 @@
+#+TITLE:🕯️candle-mode
+
+#+BEGIN_QUOTE
+The shame of speaking unskilfully were small if the tongue onely thereby were disgrac’d: But as the Image of a King in his Seale ill-represented is not so much a blemish to the waxe, or the Signet that seal’d it, as to the Prince it representeth, so disordered speech is not so much injury to the lips that give it forth, as to the disproportion and incoherence of things in themselves, so negligently expressed. Neither can his Mind be thought to be in Tune, whose words do jarre; nor his reason in frame, whose sentence is preposterous; nor his Elocution clear and perfect, whose utterance breaks itself into fragments and uncertainties. Negligent speech doth not onely discredit the person of the Speaker, but it discrediteth the opinion of his reason and judgement; it discrediteth the force and uniformity of the matter and substance. If it be so then in words, which fly and ‘scape censure, and where one good Phrase asks pardon for many incongruities and faults, how then shall he be thought wise whose penning is thin and shallow? How shall you look for wit from him whose leasure and head, assisted with the examination of his eyes, yeeld you no life or sharpnesse in his writing?
+-- Discoveries made upon Men and Matters, Ben Jonson
+#+END_QUOTE
+
+* About
+This is an environment for Standard ML.
